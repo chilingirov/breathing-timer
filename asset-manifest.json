@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/breathing-timer/static/css/main.ee52d28d.chunk.css",
+    "main.js": "/breathing-timer/static/js/main.668c9176.chunk.js",
+    "main.js.map": "/breathing-timer/static/js/main.668c9176.chunk.js.map",
+    "runtime-main.js": "/breathing-timer/static/js/runtime-main.37b474bf.js",
+    "runtime-main.js.map": "/breathing-timer/static/js/runtime-main.37b474bf.js.map",
+    "static/js/2.677ca8ef.chunk.js": "/breathing-timer/static/js/2.677ca8ef.chunk.js",
+    "static/js/2.677ca8ef.chunk.js.map": "/breathing-timer/static/js/2.677ca8ef.chunk.js.map",
+    "index.html": "/breathing-timer/index.html",
+    "static/css/main.ee52d28d.chunk.css.map": "/breathing-timer/static/css/main.ee52d28d.chunk.css.map",
+    "static/js/2.677ca8ef.chunk.js.LICENSE.txt": "/breathing-timer/static/js/2.677ca8ef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/breathing-timer/static/media/meditation.598269a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b474bf.js",
+    "static/js/2.677ca8ef.chunk.js",
+    "static/css/main.ee52d28d.chunk.css",
+    "static/js/main.668c9176.chunk.js"
+  ]
+}
